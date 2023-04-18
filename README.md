@@ -1,4 +1,4 @@
-# Prompt Engineering Guide
+# Prompt Engineering Guide 
 
 This guide contains a set of recent papers, learning guides, and tools related to prompt engineering. The repo is intended as a research and educational reference for practitioners and developers.
 
